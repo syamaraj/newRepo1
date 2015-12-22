@@ -8,3 +8,4 @@ rvm:
 # script: bundle exec rspec spec
 notifications:
   slack: syamaraj:ywdICIRgFgxdwBUHT2yjcFPn
+  webhooks: http://requestb.in/16047w11
